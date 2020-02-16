@@ -1,3 +1,2 @@
-var userName = prompt("What's your name")
-alert("Nice to meet you " + userName)
-console.log(userName)
+var num = [22, 21, 23, 25]
+console.log(num[num.length])
